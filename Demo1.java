@@ -4,14 +4,3 @@ public class Demo1 {
         System.out.println("jehanrio");
     }
 }
-
-sda
-asd
-        asd
-sd
-                aasd
-sda
-                        da
-sdsad
-                                dsada
-dsadasd
